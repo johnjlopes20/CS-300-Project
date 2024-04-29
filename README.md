@@ -1,20 +1,9 @@
+CS 300 Module Eight Journal
 
-CS-300 Data Structures and Algorithms: Analysis and Design
-Course Schedule Console App
-This project is part of the CS-300 course on Data Structures and Algorithms, focusing on analysis and design principles. It's a console application written in C++.
+The projects in this course aimed to solve problems related to runtime analysis, memory usage, and algorithmic efficiency. Understanding these concepts is crucial for designing and implementing efficient software solutions. I approached the problems systematically, starting with understanding the problem requirements, analyzing possible solutions, and selecting appropriate data structures and algorithms. Data structures play a pivotal role in organizing and manipulating data efficiently, which directly impacts the performance and scalability of software systems.
 
-Features
-Load Data Structure: Load a list of courses from a text file into a Binary Search Tree data structure.
-Print Course List: Display an alphanumeric list of all courses stored in the data structure.
-Print Course: Search for and display detailed information about a single course, including its prerequisites.
-Usage
-Load Data Structure: Choose option 1 from the menu to load course data from a text file.
-Print Course List: Option 2 prints a list of all courses stored in the data structure.
-Print Course: Option 3 allows you to search for a specific course and view its details, including prerequisites.
-Getting Started
-To run the program:
+Throughout the projects, I encountered challenges such as optimizing runtime or managing memory efficiently. To overcome these challenges, I utilized resources like textbooks, online tutorials, and peer discussions. Debugging code also enabled me to resolve the issues and improving overall project quality.
 
-Clone this repository to your local machine.
-Compile the C++ source files.
-Run the compiled executable.
-Follow the on-screen instructions to interact with the program.
+Working on these projects expanded my approach to software design and development. I gained a deeper understanding of the importance of selecting the right data structures and algorithms to optimize performance and scalability. Moreover, I learned to consider trade-offs between different approaches to design robust and efficient software solutions.
+
+Through this project, I have sharpened my skills in writing maintainable, readable, and adaptable code. By adhering to best practices, documenting code effectively, and modularizing components, I ensured that my programs were easily understandable and maintainable by myself and other developers. Additionally, I incorporated feedback from peers and mentors to improve the quality and adaptability of my codebase.
